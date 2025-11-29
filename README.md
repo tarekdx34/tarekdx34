@@ -48,14 +48,6 @@ I focus on writing high-quality code, improving user experience, and transformin
 
 ---
 
-## 📊 **GitHub Analytics**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarek-Mohamed-Salah&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarek-Mohamed-Salah&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## 🌐 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarek%20Mohamed%20Salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-mohamed-salah-671b7a222)
 

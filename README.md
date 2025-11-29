@@ -40,13 +40,7 @@ I focus on writing high-quality code, improving user experience, and transformin
   <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu" />
 </p>
 
----
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarek-Mohamed-Salah&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarek-Mohamed-Salah&theme=tokyonight" height="165" />
-</p>
 
 ---
 
